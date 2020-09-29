@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+**ATENÇÃO:** Não crie issue para questões relativas ao ambiente de produção !
+
 **Descreva sua dúvida ou problema**
 Descreva de forma clara e curta a dúvida ou problema.
 
