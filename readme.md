@@ -1,4 +1,4 @@
-# PIX - Perguntas e Respostas
+# Pix - Perguntas e Respostas
 Bem-vindo ao projeto de “Perguntas e Repostas” do PIX – ecossistema de Pagamentos Instantâneos do Banco Central do Brasil. 
 
 Este é o ponto de encontro entre os desenvolvedores do PIX e dos prestadores de serviços de pagamentos (PSPs), permitindo esclarecimento de dúvidas, relato de problemas, e iteração entre desenvolvedores de diferentes PSPs .
